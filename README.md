@@ -1,5 +1,5 @@
 ### Bigdataa
-pip install findspark
+pip install findspark \n
 pip install pyspark
 pip install matplotlib
 pip install pandas
